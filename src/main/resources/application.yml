@@ -8,4 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: file:///Users/junge/IdeaProjects/git-local-repo
+#          uri: file:///Users/junge/IdeaProjects/git-local-repo
+          uri: https://github.com/yongjung95/spring-cloud-config
+          username: yongjung95
+          password: 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
